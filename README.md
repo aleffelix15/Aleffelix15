@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Alef
 
-<!--
-**aleffelix15/Aleffelix15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer focused on Java & Spring Boot  
+🚀 Building secure APIs and banking systems  
+📊 Interested in data analytics and financial technology  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- Java
+- Spring Boot
+- Spring Security
+- MySQL
+- REST APIs
+
+---
+
+## 🚀 Featured Project
+
+### 💳 Banking Data Analytics System
+Backend API for digital banking operations, including authentication, transactions, reporting, and fraud detection.
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/aleffelix15
